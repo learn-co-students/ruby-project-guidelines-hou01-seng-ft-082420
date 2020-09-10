@@ -1,5 +1,5 @@
 require_relative '../config/environment'
 
+Cli.start
 
-
-puts "HELLO WORLD"
+puts "And until next time"
