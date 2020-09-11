@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 2020_09_09_005030) do
     t.string "color"
     t.boolean "alive"
     t.integer "happiness"
+    t.integer "hunger"
   end
 
   create_table "users", force: :cascade do |t|

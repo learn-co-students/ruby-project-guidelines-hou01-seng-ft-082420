@@ -2,4 +2,4 @@ require_relative '../config/environment'
 
 Cli.start
 
-puts "And until next time"
+puts "No Tamagotchis were harmed in the making of this app"

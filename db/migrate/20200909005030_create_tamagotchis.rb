@@ -5,6 +5,7 @@ class CreateTamagotchis < ActiveRecord::Migration[6.0]
       t.string :color
       t.boolean :alive
       t.integer :happiness 
+      t.integer :hunger
     end
   end
 end
