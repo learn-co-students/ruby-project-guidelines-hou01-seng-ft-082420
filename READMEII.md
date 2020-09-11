@@ -16,3 +16,9 @@ User Stories:
 6. As a user, you can update the integers reflecting your Tamagotchi's happiness and hunger, based upon choices made    within the app. (Update)
 7. As a user, you can update the boolean value of the age old question "Alive?". (Update)
 8. As a user, you can delete any unwanted Tamagotchi. (Delete)
+
+
+
+
+
+license: https://github.com/IainLR/ruby-project-guidelines-hou01-seng-ft-082420/blob/master/LICENSE.md
